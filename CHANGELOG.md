@@ -1,1 +1,1 @@
-Moved to [https://github.com/watson-developer-cloud/java-sdk/wiki/Changelog](https://github.com/watson-developer-cloud/java-sdk/wiki/Changelog)
+See https://github.com/watson-developer-cloud/java-sdk/releases
